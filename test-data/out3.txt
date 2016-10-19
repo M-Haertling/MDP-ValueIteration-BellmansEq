@@ -1,0 +1,40 @@
+After iteration 1:
+(s1 a1 -1.0000) (s2 a1 -1.0000) (s3 a1 0.0000) (s4 a1 -1.0000) 
+After iteration 2:
+(s1 a1 -1.9000) (s2 a1 -1.1800) (s3 a1 0.0000) (s4 a1 -1.9000) 
+After iteration 3:
+(s1 a1 -2.3212) (s2 a1 -1.3420) (s3 a1 0.0000) (s4 a1 -2.7100) 
+After iteration 4:
+(s1 a1 -2.5603) (s2 a1 -1.4878) (s3 a1 0.0000) (s4 a1 -3.4390) 
+After iteration 5:
+(s1 a1 -2.7251) (s2 a1 -1.6190) (s3 a1 0.0000) (s4 a1 -4.0951) 
+After iteration 6:
+(s1 a1 -2.8553) (s2 a1 -1.7371) (s3 a1 0.0000) (s4 a1 -4.6856) 
+After iteration 7:
+(s1 a1 -2.9660) (s2 a1 -1.8434) (s3 a1 0.0000) (s4 a1 -5.2170) 
+After iteration 8:
+(s1 a1 -3.0632) (s2 a1 -1.9391) (s3 a1 0.0000) (s4 a1 -5.6953) 
+After iteration 9:
+(s1 a1 -3.1498) (s2 a1 -2.0252) (s3 a1 0.0000) (s4 a1 -6.1258) 
+After iteration 10:
+(s1 a1 -3.2275) (s2 a1 -2.1026) (s3 a1 0.0000) (s4 a1 -6.5132) 
+After iteration 11:
+(s1 a1 -3.2973) (s2 a1 -2.1724) (s3 a1 0.0000) (s4 a1 -6.8619) 
+After iteration 12:
+(s1 a1 -3.3601) (s2 a1 -2.2351) (s3 a1 0.0000) (s4 a1 -7.1757) 
+After iteration 13:
+(s1 a1 -3.4166) (s2 a1 -2.2916) (s3 a1 0.0000) (s4 a1 -7.4581) 
+After iteration 14:
+(s1 a1 -3.4675) (s2 a1 -2.3425) (s3 a1 0.0000) (s4 a1 -7.7123) 
+After iteration 15:
+(s1 a1 -3.5132) (s2 a1 -2.3882) (s3 a1 0.0000) (s4 a1 -7.9411) 
+After iteration 16:
+(s1 a1 -3.5544) (s2 a1 -2.4294) (s3 a1 0.0000) (s4 a1 -8.1470) 
+After iteration 17:
+(s1 a1 -3.5915) (s2 a1 -2.4665) (s3 a1 0.0000) (s4 a1 -8.3323) 
+After iteration 18:
+(s1 a1 -3.6248) (s2 a1 -2.4998) (s3 a1 0.0000) (s4 a1 -8.4991) 
+After iteration 19:
+(s1 a1 -3.6548) (s2 a1 -2.5298) (s3 a1 0.0000) (s4 a1 -8.6491) 
+After iteration 20:
+(s1 a1 -3.6818) (s2 a1 -2.5568) (s3 a1 0.0000) (s4 a1 -8.7842) 

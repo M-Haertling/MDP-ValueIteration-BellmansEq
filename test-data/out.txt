@@ -1,0 +1,40 @@
+After iteration 1:
+(s1 a1 0.0000) (s2 a2 0.0000) (s3 a2 10.0000) (s4 a2 10.0000) 
+After iteration 2:
+(s1 a1 0.0000) (s2 a2 4.5000) (s3 a2 19.0000) (s4 a2 14.5000) 
+After iteration 3:
+(s1 a1 2.0250) (s2 a2 8.5500) (s3 a2 25.0750) (s4 a2 16.5250) 
+After iteration 4:
+(s1 a1 4.7588) (s2 a2 12.1950) (s3 a2 28.7200) (s4 a2 18.3475) 
+After iteration 5:
+(s1 a1 7.6292) (s2 a2 15.0654) (s3 a2 31.1804) (s4 a2 20.3978) 
+After iteration 6:
+(s1 a1 10.2126) (s2 a2 17.4643) (s3 a2 33.2102) (s4 a2 22.6121) 
+After iteration 7:
+(s1 a1 12.4546) (s2 a2 19.5402) (s3 a2 35.1201) (s4 a2 24.7711) 
+After iteration 8:
+(s1 a1 14.3977) (s2 a2 21.4086) (s3 a2 36.9510) (s4 a2 26.7516) 
+After iteration 9:
+(s1 a1 16.1128) (s2 a2 23.1069) (s3 a2 38.6662) (s4 a2 28.5172) 
+After iteration 10:
+(s1 a1 17.6489) (s2 a2 24.6505) (s3 a2 40.2325) (s4 a2 30.0835) 
+After iteration 11:
+(s1 a1 19.0347) (s2 a2 26.0466) (s3 a2 41.6422) (s4 a2 31.4796) 
+After iteration 12:
+(s1 a1 20.2866) (s2 a2 27.3046) (s3 a2 42.9048) (s4 a2 32.7314) 
+After iteration 13:
+(s1 a1 21.4161) (s2 a2 28.4361) (s3 a2 44.0363) (s4 a2 33.8581) 
+After iteration 14:
+(s1 a1 22.4335) (s2 a2 29.4536) (s3 a2 45.0525) (s4 a2 34.8734) 
+After iteration 15:
+(s1 a1 23.3492) (s2 a2 30.3687) (s3 a2 45.9666) (s4 a2 35.7881) 
+After iteration 16:
+(s1 a1 24.1730) (s2 a2 31.1921) (s3 a2 46.7896) (s4 a2 36.6118) 
+After iteration 17:
+(s1 a1 24.9143) (s2 a2 31.9332) (s3 a2 47.5306) (s4 a2 37.3532) 
+After iteration 18:
+(s1 a1 25.5814) (s2 a2 32.6002) (s3 a2 48.1977) (s4 a2 38.0204) 
+After iteration 19:
+(s1 a1 26.1817) (s2 a2 33.2006) (s3 a2 48.7981) (s4 a2 38.6208) 
+After iteration 20:
+(s1 a1 26.7220) (s2 a2 33.7409) (s3 a2 49.3385) (s4 a2 39.1611) 
